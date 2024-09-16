@@ -13,6 +13,7 @@ public class ChildLength {
         int secondNumber = Integer.parseInt(numbers[1]);
 
         System.out.println((firstNumber+secondNumber)/2);
+        scanner.close();
 
     }
 }
