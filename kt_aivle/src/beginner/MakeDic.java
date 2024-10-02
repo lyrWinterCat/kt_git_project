@@ -1,5 +1,7 @@
 package beginner;
 
+import java.util.*;
+
 public class MakeDic {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
