@@ -45,9 +45,22 @@
     "settings.editor.selected.configurable": "Debugger_Data_Views_Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CorporateRegistrationNumber">
+  <component name="RunManager" selected="Application.GearRotation">
     <configuration name="CorporateRegistrationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.CorporateRegistrationNumber" />
+      <module name="kt_git_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GearRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.GearRotation" />
       <module name="kt_git_project" />
       <extension name="coverage">
         <pattern>
@@ -74,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GearRotation" />
         <item itemvalue="Application.CorporateRegistrationNumber" />
         <item itemvalue="Application.RememberWords" />
       </list>
