@@ -1,5 +1,7 @@
 package beginner;
 
+import java.util.Scanner;
+
 public class TileFix {
     private static final int MOD = 796796;
 
