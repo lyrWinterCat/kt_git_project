@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef287090-4ed2-483b-8297-342820cb3c43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kt_aivle/src/basic/CorporateRegistrationNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kt_aivle/src/basic/PhoneNumberValidater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kt_aivle/src/basic/DivisionSixteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/kt_aivle/src/basic/DivisionSixteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kt_aivle/src/beginner/TileFix.java" beforeDir="false" afterPath="$PROJECT_DIR$/kt_aivle/src/beginner/TileFix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kt_aivle/src/basic/GearRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/kt_aivle/src/basic/GearRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CorporateRegistrationNumber.executor": "Run",
+    "Application.GearRotation.executor": "Run",
+    "Application.PhoneNumberValidater.executor": "Run",
     "Application.RememberWords.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -45,7 +46,7 @@
     "settings.editor.selected.configurable": "Debugger_Data_Views_Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GearRotation">
+  <component name="RunManager" selected="Application.PhoneNumberValidater">
     <configuration name="CorporateRegistrationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.CorporateRegistrationNumber" />
       <module name="kt_git_project" />
@@ -72,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneNumberValidater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.PhoneNumberValidater" />
+      <module name="kt_git_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RememberWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.RememberWords" />
       <module name="kt_git_project" />
@@ -87,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneNumberValidater" />
         <item itemvalue="Application.GearRotation" />
         <item itemvalue="Application.CorporateRegistrationNumber" />
         <item itemvalue="Application.RememberWords" />
