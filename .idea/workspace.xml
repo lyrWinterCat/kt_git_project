@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="ef287090-4ed2-483b-8297-342820cb3c43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kt_aivle/src/basic/PhoneNumberValidater.java" beforeDir="false" afterPath="$PROJECT_DIR$/kt_aivle/src/basic/PhoneNumberValidater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/PhoneNumberValidater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/PhoneNumberValidater.class" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CorporateRegistrationNumber.executor": "Run",
@@ -44,8 +47,9 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/kt_git_project",
     "settings.editor.selected.configurable": "org.intellij.sdk.settings.AppSettingsConfigurable"
+
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.PhoneNumberValidater">
     <configuration name="CorporateRegistrationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.CorporateRegistrationNumber" />
