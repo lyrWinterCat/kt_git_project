@@ -7,7 +7,6 @@ public class PhoneNumberValidater {
         Scanner scanner = new Scanner(System.in);
 
         // 전화번호 입력
-        System.out.print("전화번호를 입력하세요 (형식: 000-0000-0000): ");
         String phoneNumber = scanner.nextLine();
 
         // 전화번호 검증
