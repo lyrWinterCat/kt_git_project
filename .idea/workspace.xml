@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="ef287090-4ed2-483b-8297-342820cb3c43" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kt_aivle/src/basic/PhoneNumberValidater.java" beforeDir="false" afterPath="$PROJECT_DIR$/kt_aivle/src/basic/PhoneNumberValidater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/PhoneNumberValidater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/PhoneNumberValidater.class" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CorporateRegistrationNumber.executor": "Run",
@@ -41,12 +46,10 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Desktop/kt_git_project",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "settings.editor.selected.configurable": "org.intellij.sdk.settings.AppSettingsConfigurable"
+
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.PhoneNumberValidater">
     <configuration name="CorporateRegistrationNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.CorporateRegistrationNumber" />
@@ -74,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneNumberValidater" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="PhoneNumberValidater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.PhoneNumberValidater" />
       <module name="kt_git_project" />
       <extension name="coverage">
@@ -102,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneNumberValidater" />
         <item itemvalue="Application.GearRotation" />
         <item itemvalue="Application.CorporateRegistrationNumber" />
         <item itemvalue="Application.RememberWords" />
