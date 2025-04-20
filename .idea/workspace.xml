@@ -1,18 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4602560-6dac-424d-804d-234704cf11c7" name="Changes" comment="" />
+    <list default="true" id="c4602560-6dac-424d-804d-234704cf11c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kt_aivle/src/personalTest/ArrRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kt_aivle/src/personalTest/MakeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kt_aivle/src/personalTest/MatchingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/DigitCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/DigitCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/ArithmeticSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/ArithmeticSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/AsciiConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/AsciiConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/BigRemains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/BigRemains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/CalendarInk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/CalendarInk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Chattering.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Chattering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/ChildLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/ChildLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/CompressedSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/CompressedSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/CorporateRegistrationNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/CorporateRegistrationNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Coupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Coupon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/DivisionSixteen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/DivisionSixteen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/DivisionThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/DivisionThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Eight_SixTeen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Eight_SixTeen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/FengShuiBlessing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/FengShuiBlessing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Find_Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Find_Password.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/FirstClassCow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/FirstClassCow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/GCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/GCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/GearRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/GearRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/IQList$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/IQList$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/IQList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/IQList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/MakeDemical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/MakeDemical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/MakeID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/MakeID.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Pangramchecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Pangramchecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/PhoneNumberValidater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/PhoneNumberValidater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/RememberWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/RememberWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/RimboGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/RimboGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/StrangeChatBot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/StrangeChatBot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/TenTimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/TenTimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/TrainAndFly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/TrainAndFly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/basic/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/basic/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/Combination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/FindNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/FindNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/MakeDic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/MakeDic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/MeanValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/MeanValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/NameNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/NameNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/RecycleSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/RecycleSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/ThreeHundreds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/ThreeHundreds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kt_git_project/beginner/TileFix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kt_git_project/beginner/TileFix.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lyrWinterCat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lyrWinterCat/kt_git_project.git&quot;,
+    &quot;accountId&quot;: &quot;488356c9-e11f-44a6-9caf-90baa9a963cc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pgR1HvIGlaUxztSmiOc6hvefwx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "main"
+    "Application.ArrRule.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore_missing_gitignore": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dldul/Desktop/MATE_Aivle_BP"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ArrRule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="personalTest.ArrRule" />
+      <module name="kt_git_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personalTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrRule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4602560-6dac-424d-804d-234704cf11c7" name="Changes" comment="" />
+      <created>1733185517811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733185517811</updated>
+    </task>
     <servers />
   </component>
 </project>
